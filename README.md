@@ -1,5 +1,7 @@
-# crud-php7-bootstrap4
+# Aplikasi Invoice Sederhana
+Requirtment 
+- PHP 7.0 +
+- Boostrap 4
+- MySql / MariaDB 
 
-CRUD PHP 7 DENGAN BOOTSTRAP 4 SEDERHANA
-Ini hanya untuk bahan pembelajaran
-selengkapnya ada diwebsite gilacoding.com atau youtube gilacoding
+Instalasi
